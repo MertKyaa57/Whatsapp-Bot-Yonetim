@@ -1,6 +1,12 @@
+# - YAKINDA - YAPIM AŞAMASINDA
 # WhatsApp Bot Yönetim Paneli
 
 Modern, responsive ve kullanıcı dostu WhatsApp Bot yönetim paneli. Tailwind CSS ve DaisyUI ile tasarlanmış, Node.js backend ile çalışan kapsamlı bir yönetim sistemi.
+# Resimler
+<img width="1918" height="954" alt="wphs" src="https://github.com/user-attachments/assets/f3648d47-604f-4a17-8f5b-32bfe5dd7124" />
+<img width="1918" height="935" alt="Ekran görüntüsü 2025-07-15 031111" src="https://github.com/user-attachments/assets/1e5abdf1-5d63-4bcf-964e-4f762434fa8d" />
+<img width="1899" height="959" alt="Ekran görüntüsü 2025-07-15 031143" src="https://github.com/user-attachments/assets/c6750bad-7198-4e7e-aa60-4867037708fb" />
+
 
 ## 🚀 Özellikler
 
